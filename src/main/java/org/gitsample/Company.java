@@ -2,6 +2,7 @@ package org.gitsample;
 
 public class Company 
 {
+	// adding comment from GitHub; Edit file directly on console
 	private String name;
 	private String address;
 	private int salary;
