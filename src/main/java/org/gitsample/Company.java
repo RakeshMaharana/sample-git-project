@@ -27,6 +27,8 @@ public class Company
 	@Override
 	public String toString() {
 		return "Company [name=" + name + ", address=" + address + ", salary=" + salary + "]";
-	} 
+	}
+	
+	// second commit with comment
 	
 }
