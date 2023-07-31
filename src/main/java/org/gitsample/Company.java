@@ -6,6 +6,7 @@ public class Company
 	private String name;
 	private String address;
 	private int salary;
+	private int counter;
 	
 	public String getName() {
 		return name;
